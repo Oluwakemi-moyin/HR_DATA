@@ -1,6 +1,5 @@
 # HR_DATA
 
-
 [Project Overview](#project-overview) 
 
 [Data Sources](#data-sources)
@@ -22,7 +21,7 @@
     
 ### Project Overview
 ---
-Collection and analysis of sales data across the company's various sales regions, markets and stores. The goal of the project is to provide insights into revenue, units sold and transaction category over a two year-period.The analysis focuses on understanding sales performance and revenue trends across various regions and calculating important performance indicators like average revenue and average unit sold per store/region. 
+Collection and analysis of HR data across the company's various educational fields, attrition rate, cf_age band. The goal of the project is to provide insights into revenue, units sold and transaction category over a two year-period.The analysis focuses on understanding sales performance and revenue trends across various regions and calculating important performance indicators like average revenue and average unit sold per store/region. 
     
 ### Data Source
 ---    
