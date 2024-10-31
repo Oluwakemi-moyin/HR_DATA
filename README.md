@@ -1,6 +1,4 @@
-# HR_DATA
-
-## INCUBATOR HUB HR DATA ANALYSIS TRACKER
+# INCUBATOR HUB HR DATA ANALYSIS TRACKER
 
 [Project Overview](#project-overview) 
 
