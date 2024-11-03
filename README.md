@@ -30,15 +30,14 @@ Company HR Data
 ### Data Collected
 ---    
 This data contains some key columns.
-1. Attrition
-2. CF_age_band
-3. CF_current_employee
-4. Job satisfaction
-5. Daily rate
-6. Momthly income
-7. Gender
-8. Years at Company
-9. Educational Field
+1. Attrition rate : rate at which employee leave the organisation. Both voluntary or involuntary without replacement. Calculated as; count of attrition/total number of employees
+2. CF_age_band - age range of employees.
+3. CF_current_employee- total number of current employees.
+4. Job satisfaction : shows level of satisfaction of employees with their jobs
+5. Yearly income- how much is being paid to employees per year. Calculated as; monthly income*12
+7. Gender - defines the gender classification of the employees in the company.
+8. Job role- it is the job functions of each employee
+9. Education- level of education attaned by employees
   
 ### Project Objective  
 --- 
@@ -56,7 +55,7 @@ This project is to address the following analysis goals.
 
 ### Tools used
 ---
-- Power BI [Download here][sales data.xlsx](https://github.com/user-attachments/files/17345479/sales.data.xlsx)
+- Power BI [Download here][ ](   )
 
   1. For Data cleaning,
   2. Analysis and
@@ -66,27 +65,27 @@ This project is to address the following analysis goals.
 
 ### Key Metrics
 ---
-1. No of Attrition: calculated by multiplying the selling price of each item by the total units sold for the item.
+1. Attrition rate
 2. Job satisfaction rating
-3. Total number of current employees
-4. Attrition rate
+3. Total number of current employees- total number of current employees.
+4. Yearly income
 
 ### Data Cleaning and Preparations
 ---
 1. Power BI:
    - Transform data was used for cleaning the dataset.
-   - Conditional Column(DAX Function) - Number of attrition
+   - Conditional Column(DAX Function) - Count of Attrition
      ```
      Formula:
-     IF Attrition equals 'Yes' then 1
+     IF Count Attrition equals 'Yes' then 1
               else 0
    
      ```
    - Conditional Column(DAX Function) - Age Sort
      ```
      Formula:
-     IF Age-band is '15-44' then  1
-     IF Age-band is '15-44' then  2
+     IF Age-band is 'Under 25' then  1
+     IF Age-band is '4' then  2
      IF Age-band is '15-44' then  3
      IF Age-band is '15-44' then  4
      ```
