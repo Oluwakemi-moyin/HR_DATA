@@ -14,6 +14,8 @@
 
 [Data Cleaning and Preparations](#data-cleaning-and-preparations)
 
+[Dashboard Overview](#dashboard-overview)
+
 [Exploratory Data Analysis](#exploratory-data-analysis)
 
 [Data Visualization](#data-visualization)
@@ -98,7 +100,15 @@ This project is to address the following analysis goals.
    
      ```
    - Card, Charts, Matrix, Tables,ets - for visualizations       
-     
+  
+
+## Dashboard Overview
+
+    ![Screenshot 2024-11-03 054448](https://github.com/user-attachments/assets/432f1e0f-3784-4b15-8cb8-a27229819c5a)
+
+
+
+
                                                                                             |A|
 ## Attrition Rate and Count of Attrition
 
@@ -123,6 +133,8 @@ The use of Power Bi table to organize, summarize, and analyze datasets, making i
 ### Conclusion
 ---
 
+
+                                                                                        |B|
 ## Current Employees
 
 ### Exploratory Data Analysis 
@@ -146,6 +158,7 @@ The use of Power Bi table to organize, summarize, and analyze datasets, making i
    
 ### Conclusion
 ---
+                                                                                    |C|
 
 ## Total number of Employees
 
@@ -170,7 +183,7 @@ The use of Power Bi table to organize, summarize, and analyze datasets, making i
 ---
 
 
-
+                                                                                        |D|
 
 
 
