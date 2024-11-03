@@ -2,7 +2,7 @@
 
 [Project Overview](#project-overview) 
 
-[Data Sources](#data-sources)
+[Data Source](#data-source)
 
 [Data Collected](#data-collected)
 
@@ -36,7 +36,7 @@ Company HR Data
 This data contains some key columns.
 1. Attrition rate : rate at which employee leave the organisation. Both voluntary or involuntary without replacement. Calculated as; count of attrition/total number of employees
 2. CF_age_band - age range of employees.
-3. CF_current_employee- total number of current employees.
+3. CF_current_employee- total number of current employees. 
 4. Job satisfaction : shows level of satisfaction of employees with their jobs
 5. Yearly income- how much is being paid to employees per year. Calculated as; monthly income*12
 7. Gender - defines the gender classification of the employees in the company.
@@ -59,11 +59,11 @@ This project is to address the following analysis goals.
 
 ### Tools used
 ---
-- Power BI [Download here][ ](   )
+- Power BI [Download here](   )
 
   1. For Data cleaning and preparation,
   2. Analysis and
-  3. Visualization
+  3. Visualisation
   
 - Github for Portfolio Building
 
@@ -71,13 +71,13 @@ This project is to address the following analysis goals.
 ---
 1. Attrition rate
 2. Job satisfaction rating
-3. Total number of current employees- total number of current employees.
+3. Total number of current employees
 4. Yearly income
 
 ### Data Cleaning and Preparations
 ---
 1. Power BI:
-   - Transform data was used for cleaning the dataset.
+   - Transform data  was used for cleaning the dataset.
    - Conditional Column(DAX Function) - Count of Attrition
      ```
      Formula:
@@ -99,12 +99,14 @@ This project is to address the following analysis goals.
      Formula: Count of Attrition / Total number of employees
    
      ```
-   - Card, Charts, Matrix, Tables,ets - for visualizations       
+   - Card, Charts, Matrix, Tables,etc - for visualisations       
   
 
 ## Dashboard Overview
 
-    ![Screenshot 2024-11-03 054448](https://github.com/user-attachments/assets/432f1e0f-3784-4b15-8cb8-a27229819c5a)
+![Screenshot 2024-11-03 210532](https://github.com/user-attachments/assets/b462f251-0b76-4ca7-b5bf-f5afa4233bc9)
+
+![Screenshot 2024-11-03 204742](https://github.com/user-attachments/assets/06639bb6-90b6-4348-aaec-aa1372f9efd1)
 
 
 
@@ -114,21 +116,31 @@ This project is to address the following analysis goals.
 
 ### Exploratory Data Analysis 
 ---
-The use of Power Bi table to organize, summarize, and analyze datasets, making it easier to discover patterns and insights in the dataset.
+The use of Power BI table and cards visualisations to organize, summarize, and analyze datasets, making it easier to discover patterns and insights in the dataset.
+![Screenshot 2024-11-03 211841](https://github.com/user-attachments/assets/6d06dcaa-8dc5-49fc-8cf3-1a1ce5ba00bc)
+![Screenshot 2024-11-03 213742](https://github.com/user-attachments/assets/df5bbe11-4019-43c8-abb6-5b4a95946b44)
+![Screenshot 2024-11-03 213717](https://github.com/user-attachments/assets/4541507b-d1b9-4771-b947-9702274a686d)
+![Screenshot 2024-11-03 213705](https://github.com/user-attachments/assets/db5e0d11-c0b7-4366-9570-3e5c66d58f8f)
 
 
 ### Data Visualization
 ---
+![Screenshot 2024-11-03 212157](https://github.com/user-attachments/assets/d0cec4e7-c71a-43e8-b0d0-26cf2f51de2c)    ![Screenshot 2024-11-03 212351](https://github.com/user-attachments/assets/7fe04874-5b82-4631-9f77-11fe9133de34)
 
-
-
+![Screenshot 2024-11-03 213025](https://github.com/user-attachments/assets/c8e6a2eb-b7e3-4f23-9d23-1eff053c4e86)    ![Screenshot 2024-11-03 212113](https://github.com/user-attachments/assets/58d96ccd-6d89-4d96-ad76-9288bc4a51cf)
 
 ### Inferences
 ---
-1. Overall Revenue Trends
-2. Regional Performance
-3. Revenue Distribution
-4. Strategic Implication
+1. Overall Income Trends
+   - The Lowest Yearly income for the organisation is 12,108 which was from R&D Department (an ex-employee) followed by 12,602 also from same department (a current employee).
+   - 
+2. Departmental Performance
+   
+3. Gender Performance
+
+4. Age_band Performance
+   
+5. Strategic Implication
    
 ### Conclusion
 ---
