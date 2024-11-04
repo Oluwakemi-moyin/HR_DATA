@@ -59,7 +59,7 @@ This project is to address the following analysis objectives and goals.
 
 ### Tools used
 ---
-- Power BI [Download here](https://github.com/Oluwakemi-moyin/HR_DATA/blob/21f5bef9141b82cddb1ce19555ebecc29d251b4f/INCUBATOR%20HUB%20HR%20DATA%20ANALYSIS.pbix)
+- Power BI [Download here](https://github.com/Oluwakemi-moyin/HR_DATA/blob/a122cd1259ad16887c22edaf6475c01d20dbeb0b/INCUBATOR%20HUB%20HR%20DATA%20ANALYSIS.pbix)
 
   1. For Data cleaning and preparation,
   2. Analysis and
@@ -108,6 +108,7 @@ This project is to address the following analysis objectives and goals.
 
 ![Screenshot 2024-11-03 204742](https://github.com/user-attachments/assets/06639bb6-90b6-4348-aaec-aa1372f9efd1)
 
+![Screenshot 2024-11-04 164356](https://github.com/user-attachments/assets/09418ac2-e44f-40df-a497-b793fceb17a1)
 
 
 
