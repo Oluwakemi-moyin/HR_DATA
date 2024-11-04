@@ -20,7 +20,7 @@
 
 [Data Visualization](#data-visualization)
 
-[Table](#table)
+[Overall Recommendation](#overall-recommendation)
 
     
 ### Project Overview
@@ -192,45 +192,58 @@ The use of Power BI table to organize, summarize, and analyze datasets, making i
 ---
 1. Overall Income Trends
    - 
-2. Departmental Performance
+   
+3. Departmental Performance
    - R&D department have the highest current employee count of 828staffs. 
    - HR department have the lowest current employee count of 51staffs.
-3. Job Role performance
+4. Job Role performance
    - Sales executives have the highest population among the current employees with 269 people and
    - Human resources staffs have the lowest population among current employees with 40people.
-4. Age band Performance
+5. Age band Performance
    - 35-44 have the highest current employee count of 454persons
-   - over 55 have the smallest current employee count of 58persons
-   - Under 25 have current count of 59 as compared to the total employee count for under 25 which was 97. 38people left.
+   - over 55 have the smallest current employee count of 58persons. Followed by under 25 age group with 59persons.
+   - A total of 38people left the organisation within the age band of under 25. 
 6. Gender Performance
    - Married males have the highest population count of current employees with a sum of 348staffs
    - Divorced Females have the lowest population count of 108 women.
    - More males left the organization as compared to females.
 7. Strategic Implication
-   -
+   - Overall 237 people left the organization making it a total of 1233 persons remaining in the organisation.
+   - The age band with the most population after the attrition of staffs is the 35-44 group. In an organization, there is need for more vibrancy which is usually brought by the 25-34 age group.
    
 ### Conclusion
 ---
-                                                                                    |C|
+                                                                                        |C|
 
 ## Total number of Employees
 
 ### Exploratory Data Analysis 
 ---
-- The use of Pivot table to organize, summarize, and analyze datasets, making it easier to discover patterns and insights in the dataset.
+The use of Power BI tables and cards to organize, summarize, and analyze datasets, making it easier to discover patterns and insights in the dataset.
 
+![Screenshot 2024-11-03 213705](https://github.com/user-attachments/assets/18ca119e-556f-4610-87d7-32f1aed1168a)
 
 
 
 ### Data Visualization
 ---
 
+
 ### Inferences:
 ---
-1. Overall Revenue Trends
-2. Regional Performance
-3. Revenue Distribution
-4. Strategic Implication
+1. Overall Income Trends
+   - 
+   
+3. Departmental Performance
+   - 
+4. Job Role performance
+   - 
+5. Age band Performance
+   - 
+6. Gender Performance
+   -
+7. Strategic Implication
+   -
    
 ### Conclusion
 ---
@@ -253,40 +266,27 @@ The use of Power BI table to organize, summarize, and analyze datasets, making i
 ---
 
 ### Inferences:
----
-1. Overall Revenue Trends
-2. Regional Performance
-3. Revenue Distribution
-4. Strategic Implication
+1. Overall Income Trends
+   - 
    
+3. Departmental Performance
+   - 
+4. Job Role performance
+   - 
+5. Age band Performance
+   - 
+6. Gender Performance
+   -
+7. Strategic Implication
+   -   
 ### Conclusion
 ---
 
 
-## Table
+### Overall Recommendation
 🥇
-
 💻
-TOTAL REVENUE
 
-|Heading 1|Heading 2|Heading 3|
-|----|----|----|
-|2014|2015|TOTAL DATA|
-|48,464,608,200.00|24,567,382,080.00|73,031,990,280.00|
-
-TOTAL AVERAGE REVENUE
-
-|Heading 1|Heading 2|Heading 3|
-|----|----|----|
-|2014 DATA|2015 DATA|TOTAL DATA|
-|2383427.18|2347575.93|4731003.10|
-
-Total Units Sold
-
-|Heading 1|Heading 2|Heading 3|
-|----|----|----|
-|2014 data|2015 data|Total DATA|
-|517013.00|269665.00|786678.00|
 
 
 
