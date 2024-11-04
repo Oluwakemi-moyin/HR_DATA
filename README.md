@@ -45,7 +45,7 @@ This data contains some key columns.
   
 ### Project Objective  
 --- 
-This project is to address the following analysis goals.
+This project is to address the following analysis objectives and goals.
 1. Attrition Rate
 2. Number of current Employees
 3. Attrition count by Educational field
@@ -59,7 +59,7 @@ This project is to address the following analysis goals.
 
 ### Tools used
 ---
-- Power BI [Download here](   )
+- Power BI [Download here](INCUBATOR HUB HR DATA ANALYSIS.pbix)
 
   1. For Data cleaning and preparation,
   2. Analysis and
