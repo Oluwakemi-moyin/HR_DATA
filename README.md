@@ -104,7 +104,7 @@ This project is to address the following analysis goals.
 
 ## Dashboard Overview
 
-![Screenshot 2024-11-03 210532](https://github.com/user-attachments/assets/b462f251-0b76-4ca7-b5bf-f5afa4233bc9)
+![Screenshot 2024-11-04 050328](https://github.com/user-attachments/assets/6c4a6c84-e3df-44c8-852d-5846814d9d03)
 
 ![Screenshot 2024-11-03 204742](https://github.com/user-attachments/assets/06639bb6-90b6-4348-aaec-aa1372f9efd1)
 
@@ -132,19 +132,28 @@ The use of Power BI table and cards visualisations to organize, summarize, and a
 ### Inferences
 ---
 1. Overall Income Trends
-   - The Lowest Yearly income for the organisation is 12,108 which was from R&D Department (an ex-employee) followed by 12,602 also from same department (a current employee).
-   - 
+   - The Lowest Income per year for the organisation is 12,108 which was a Research Scientist from R&D Department (an ex-employee) followed by 12,602 also a Research Scientist from same department (a current employee).
+   - The highest Income per year for the organization is 239,988 who is a Manager from the department of R&D (current employee)
+   - The average of count of attrition is more likely to increase, by 0.19units when sum of Yearly Income is 33,600 or less than otherwise.
+   - Also, when the sum of Yearly Income is greater than 165,096 the average of count of attrition is 0.14units lower compared to other values.
 2. Departmental Performance
-   
+   - In terms of population, the R&D department has the highest population of 961people of the overall population of 1,470people.
+   - The R&D department had the highest count of attrition of 133people which is 56.12% of the overall attrition count of the three departments.
+   - The HR department had the lowest count of attrition of 12people which is 5.06% of the overall attrition count of the three departments.
+   - The R&D department has an attrition rate of 13.8% out of the overall population count of 1,470people.
+   - The attrition count is mostly from the ageband of 25-34 which is 348people out of their total population of 961people in the department.
 3. Gender Performance
-
+   - Males have the highest % of Attrition rate, which is 17% of the overall population.
+   - Females have the lowest  % of Attrition rate, which is 14.8% of the overall population.
 4. Age_band Performance
-   
-5. Strategic Implication
+   - The Age band of 25-34 had the highest attrition count of 112 which is 7.6% of the overall attriton rate and an attrition rate of 20.2% of the overall population.
+6. Strategic Implication
+   - The Income(monthly &Yearly) is a major influencer of the count of atttrition. There is a negative relationship between the two
+   - 
    
 ### Conclusion
 ---
-
+The R&D department is the most affected department which is mostly due to low average yearly income. The company should do a review of their average salaries, once this is done, there will be a reduction in the rate of attrition.
 
                                                                                         |B|
 ## Current Employees
