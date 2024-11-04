@@ -117,11 +117,11 @@ This project is to address the following analysis objectives and goals.
 ### Exploratory Data Analysis 
 ---
 The use of Power BI table and cards visualisations to organize, summarize, and analyze datasets, making it easier to discover patterns and insights in the dataset.
-![Screenshot 2024-11-03 211841](https://github.com/user-attachments/assets/6d06dcaa-8dc5-49fc-8cf3-1a1ce5ba00bc)
-![Screenshot 2024-11-03 213742](https://github.com/user-attachments/assets/df5bbe11-4019-43c8-abb6-5b4a95946b44)
-![Screenshot 2024-11-03 213717](https://github.com/user-attachments/assets/4541507b-d1b9-4771-b947-9702274a686d)
+
+![Screenshot 2024-11-03 213742](https://github.com/user-attachments/assets/df5bbe11-4019-43c8-abb6-5b4a95946b44)  ![Screenshot 2024-11-03 213717](https://github.com/user-attachments/assets/4541507b-d1b9-4771-b947-9702274a686d)
 ![Screenshot 2024-11-03 213705](https://github.com/user-attachments/assets/db5e0d11-c0b7-4366-9570-3e5c66d58f8f)
 
+![Screenshot 2024-11-03 211841](https://github.com/user-attachments/assets/6d06dcaa-8dc5-49fc-8cf3-1a1ce5ba00bc)
 
 ### Data Visualization
 ---
@@ -168,7 +168,7 @@ The use of Power BI table and cards visualisations to organize, summarize, and a
    
 ### Conclusion
 ---
-The R&D department and Sales Department are the most affected departments which is mostly due to low average yearly income. The company should do a review of their salaries, once their salaries are increased, there will be a reduction in the rate of attrition.
+The R&D department(junior staffs like Research scientist, etc) and Sales Department(sales representatives) are the most affected departments which is mostly due to low average yearly income. The company should do a review of their salaries, once their salaries are increased, there will be a reduction in the rate of attrition.
 
                                                                                         |B|
 ## Current Employees
@@ -178,6 +178,7 @@ The R&D department and Sales Department are the most affected departments which 
 The use of Power BI table to organize, summarize, and analyze datasets, making it easier to discover patterns and insights in the dataset.
 
 ![Screenshot 2024-11-03 213119](https://github.com/user-attachments/assets/8018040b-d815-42ec-962e-49e11178566a)
+![Screenshot 2024-11-04 140339](https://github.com/user-attachments/assets/619be2f5-0ba1-4c7e-9cce-b8d2ef8a633f)
 
 
 
@@ -191,7 +192,9 @@ The use of Power BI table to organize, summarize, and analyze datasets, making i
 ### Inferences:
 ---
 1. Overall Income Trends
-   - 
+   - The overall total sum of yearly income for current employees is 101,097,216.
+   - The Employee with the highest income is STAFF-259 with a sum of yearly income of 239,988.
+   - The count of current employees is 1,233.
    
 3. Departmental Performance
    - R&D department have the highest current employee count of 828staffs. 
@@ -213,79 +216,68 @@ The use of Power BI table to organize, summarize, and analyze datasets, making i
    
 ### Conclusion
 ---
+The management team of the organization has to meet with the hr team to do a salary upward review for all affected departments and job roles. 
+
                                                                                         |C|
 
-## Total number of Employees
+## Yearly Income
 
 ### Exploratory Data Analysis 
 ---
 The use of Power BI tables and cards to organize, summarize, and analyze datasets, making it easier to discover patterns and insights in the dataset.
 
 ![Screenshot 2024-11-03 213705](https://github.com/user-attachments/assets/18ca119e-556f-4610-87d7-32f1aed1168a)
+![Screenshot 2024-11-04 142527](https://github.com/user-attachments/assets/117c6bfa-40e7-4eaf-97a8-a7f87d42adfa)
 
 
 
 ### Data Visualization
 ---
+![Screenshot 2024-11-04 142718](https://github.com/user-attachments/assets/d0120225-c2a6-451e-bfcc-883ae78bb813)
+![Screenshot 2024-11-04 143834](https://github.com/user-attachments/assets/1afd984a-6ede-49db-8f9b-eea75899d012)
+![Screenshot 2024-11-04 145034](https://github.com/user-attachments/assets/e6981d7c-c1af-4d4b-9062-3c38b4bd9bc9)
+![Screenshot 2024-11-04 160527](https://github.com/user-attachments/assets/eb3cb312-0c18-413e-890f-ddedf6384949)
 
 
 ### Inferences:
 ---
 1. Overall Income Trends
-   - 
+   - The Top 5 employees by Yearly income are; STAFF-259, STAFF-1035, STAFF-1191, STAFF-226, STAFF-787 accordingly. They are all from R&D department and are in top Managerial positions like Managers and Research Director.
+   - Staff-259 has the highest Yearly income of 239,988 
+   - The R&D department has a total sum of yearly income of 72,435,408 followed by sales department with 37,245,492
+   - HR department has the lowest total sum of yearly income with 5,030,808.
    
-3. Departmental Performance
-   - 
-4. Job Role performance
-   - 
-5. Age band Performance
-   - 
-6. Gender Performance
-   -
-7. Strategic Implication
-   -
+2. Departmental & Job Role Performances
+   - The R&D department has a total sum of yearly income of 72,435,408 followed by sales department with 37,245,492
+   - HR department has the lowest total sum of yearly income with 5,030,808.
+   - On average, Managers have the highest sum of yearly income of 206,180.
+   - Sales representatives have the lowest average of sum of yearly income of 31,512. This can be due to population.
+3. %Salary hike 
+   - On average, sales representatives have salary hike of 15.67% followed by Manaufacturing Directors with 15.59%.
+   - Human resources staffs have the least avg salary hike of 14.81%.
+5. Age band & Gender Performance
+   - 35-44 have the highest sum of yearly income of 41,133,504
+   - Under 25 have the least sum of yearly income of 3,094,812
+   - Males have the highest sum of yearly income of 67,531,296 which is 30% higher than Females sum of yearly income 
+6. Education Performance
+   - Staffs with Bacherlor's degree have the highest sum of yearly income of 44,734,500 followed by those with Masters' degree
+   - Doctoral degree staffs have the least sum of yearly income of 4,767,924
+7. Marital status
+   - Married staffs have the overall highest sum of yearly income of 54,865,692
+   - Divorced staffs have the lowest with 26,629,392.
+8. Strategic Implication
+   - R&D department is receiving the top 5 highest salaries.
+   - There is no gender equality in the organization as we have a difference of almost 21million between Males and Females.
+   - Sales reps have had more salary raises than Human resources staffs, on average.
    
 ### Conclusion
 ---
 
-
-                                                                                        |D|
-
-
-
-## Yearly Income
-
-### Exploratory Data Analysis 
----
-- The use of Pivot table to organize, summarize, and analyze datasets, making it easier to discover patterns and insights in the dataset.
-
-
-
-
-### Data Visualization
----
-
-### Inferences:
-1. Overall Income Trends
-   - 
-   
-3. Departmental Performance
-   - 
-4. Job Role performance
-   - 
-5. Age band Performance
-   - 
-6. Gender Performance
-   -
-7. Strategic Implication
-   -   
-### Conclusion
----
-
-
+The company should encourage further educational studies which will not only help boost knowledge but also help the staffs on their jobs. Also, the salary line between Top managers and junior staffs should be reviewed especially in the R&D department so staffs can receive salaries according to job experience, job knowledge and expertise and also education level.
+HR should focus on bridging the gap in gender equality.
 ### Overall Recommendation
-🥇
-💻
+---
+🥇💻- The R&D department and Sales Department are the most affected departments which is mostly due to low average yearly income. The company should do a review of their salaries, once their salaries are increased, there will be a reduction in the rate of attrition.🥇 💻
 
 
 
