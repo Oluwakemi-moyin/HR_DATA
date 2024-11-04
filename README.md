@@ -40,8 +40,8 @@ This data contains some key columns.
 4. Job satisfaction : shows level of satisfaction of employees with their jobs
 5. Yearly income- how much is being paid to employees per year. Calculated as; monthly income*12
 7. Gender - defines the gender classification of the employees in the company.
-8. Job role- it is the job functions of each employee
-9. Education- level of education attaned by employees
+8. Job role- This is the job function of each employee.
+9. Education- level of education attained by employees
   
 ### Project Objective  
 --- 
@@ -59,7 +59,7 @@ This project is to address the following analysis objectives and goals.
 
 ### Tools used
 ---
-- Power BI [Download here](INCUBATOR HUB HR DATA ANALYSIS.pbix)
+- Power BI [Download here](https://github.com/Oluwakemi-moyin/HR_DATA/blob/21f5bef9141b82cddb1ce19555ebecc29d251b4f/INCUBATOR%20HUB%20HR%20DATA%20ANALYSIS.pbix)
 
   1. For Data cleaning and preparation,
   2. Analysis and
@@ -132,6 +132,7 @@ The use of Power BI table and cards visualisations to organize, summarize, and a
 ### Inferences
 ---
 1. Overall Income Trends
+   - Employee with number -259 has the highest income of 239,988/year.
    - The Lowest Income per year for the organisation is 12,108 which was a Research Scientist from R&D Department (an ex-employee) followed by 12,602 also a Research Scientist from same department (a current employee).
    - The highest Income per year for the organization is 239,988 who is a Manager from the department of R&D (current employee)
    - The average of count of attrition is more likely to increase, by 0.19units when sum of Yearly Income is 33,600 or less than otherwise.
@@ -140,42 +141,73 @@ The use of Power BI table and cards visualisations to organize, summarize, and a
    - In terms of population, the R&D department has the highest population of 961people of the overall population of 1,470people.
    - The R&D department had the highest count of attrition of 133people which is 56.12% of the overall attrition count of the three departments.
    - The HR department had the lowest count of attrition of 12people which is 5.06% of the overall attrition count of the three departments.
-   - The R&D department has an attrition rate of 13.8% out of the overall population count of 1,470people.
-   - The attrition count is mostly from the ageband of 25-34 which is 348people out of their total population of 961people in the department.
+   - The R&D department has an attrition rate of 13.8% out of the overall population count of 1,470people in the organisation.
+   - The attrition count is mostly from the ageband of 25-34 which is 348people out of the R&D department's total population of 961people.
+3. Job role Performanance
+   - Attrition count is more likely to decrease when job role is 'Research Director' than otherwise(on average). When job role is 'Research Director', the average count of attrition is 0.14units lower compared to all other         Job roles.
+   - Sales representatives have the highest attrition rate of 39.8%. Laboratory technicians have the highest attrition count of 62people, but due to a larger staff strength as compared to sales representatives, the attrition 
+     rate is higher for sales represntatives with a smaller staff strength. 
+   - Research directors have the lowest attrition rate of 2.5%.
 3. Gender Performance
-   - Males have the highest % of Attrition rate, which is 17% of the overall population.
-   - Females have the lowest  % of Attrition rate, which is 14.8% of the overall population.
+   - Male staffs have the highest % of Attrition rate, which is 17% of the overall population.
+   - Female staffs have the lowest % of Attrition rate, which is 14.8% of the overall population.
 4. Age_band Performance
-   - The Age band of 25-34 had the highest attrition count of 112 which is 7.6% of the overall attriton rate and an attrition rate of 20.2% of the overall population.
+   - The Age band of 25-34 had the highest attrition count of 112 which is 7.6% of the overall attrition rate and an attrition rate of 20.2% of the age band's population. However, the age band of under 25 had the highest           attrition rate of 39%.
+   - The over 55 age band have the lowest attrition count of 11 which is 0.748% of the overall attrition rate amd an attrition rate of 15.9% of the age band's population. However, the age band of 35-44 had the lowest               attrition rate of 10.1%.
+5. Satisfaction Rating
+   - The Sales representatives have the highest very dissatisfied ratings of 58.3% as compared to Mangers with 4.8%.
+   - The high dissatisfaction ratings comes mostly from those with lower working years in the company as compared to those who have spent longer who have higher satisfaction ratings.
 6. Strategic Implication
-   - The Income(monthly &Yearly) is a major influencer of the count of atttrition. There is a negative relationship between the two
-   - 
+   - The Income(monthly &Yearly) is a major influencer of the count of atttrition. There is a negative relationship between the two.
+   - An increase in income causes attrition count to decline by about 0.14units and a decrease in income levels causes attrition count to rise by about 0.19units on average.
+   - The Attrition falls mostly in the R&D department (under 25) age band segment despite the fact that 25-34 has the highest attrition count. This is because, on a closer view, with respect to population, it is seen that 
+     under 25 group had a higher attrition rate of 32.8% compared to 25-34 group with 18.7% attrition rate.
+   - From the above, it is possible that under 25 group left for futher studies as opposed to 25-34 leaving mostly due to low income.
+   - The Manager role in the R&D department are not as affected by attrition as compared to the Research Scientist role among others.
+   - Sales representatives are mostly affected by the attrition. Out of a total of 83 staffs, 33 left. Leaving their current population as 50 staffs
    
 ### Conclusion
 ---
-The R&D department is the most affected department which is mostly due to low average yearly income. The company should do a review of their average salaries, once this is done, there will be a reduction in the rate of attrition.
+The R&D department and Sales Department are the most affected departments which is mostly due to low average yearly income. The company should do a review of their salaries, once their salaries are increased, there will be a reduction in the rate of attrition.
 
                                                                                         |B|
 ## Current Employees
 
 ### Exploratory Data Analysis 
 ---
-- The use of Pivot table to organize, summarize, and analyze datasets, making it easier to discover patterns and insights in the dataset.
+The use of Power BI table to organize, summarize, and analyze datasets, making it easier to discover patterns and insights in the dataset.
 
+![Screenshot 2024-11-03 213119](https://github.com/user-attachments/assets/8018040b-d815-42ec-962e-49e11178566a)
 
 
 
 ### Data Visualization
 ---
+![Screenshot 2024-11-03 213204](https://github.com/user-attachments/assets/38105b35-639c-41bd-a80a-b987b1725d7e)
+![Screenshot 2024-11-03 211857](https://github.com/user-attachments/assets/08a2e011-8851-4c75-bace-c09636dc1e77)
 
 
 
 ### Inferences:
 ---
-1. Overall Revenue Trends
-2. Regional Performance
-3. Revenue Distribution
-4. Strategic Implication
+1. Overall Income Trends
+   - 
+2. Departmental Performance
+   - R&D department have the highest current employee count of 828staffs. 
+   - HR department have the lowest current employee count of 51staffs.
+3. Job Role performance
+   - Sales executives have the highest population among the current employees with 269 people and
+   - Human resources staffs have the lowest population among current employees with 40people.
+4. Age band Performance
+   - 35-44 have the highest current employee count of 454persons
+   - over 55 have the smallest current employee count of 58persons
+   - Under 25 have current count of 59 as compared to the total employee count for under 25 which was 97. 38people left.
+6. Gender Performance
+   - Married males have the highest population count of current employees with a sum of 348staffs
+   - Divorced Females have the lowest population count of 108 women.
+   - More males left the organization as compared to females.
+7. Strategic Implication
+   -
    
 ### Conclusion
 ---
